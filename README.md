@@ -19,12 +19,29 @@ AppSetting.json :- Contains all teh Data for example URL, endpoint etc.
 SettingValue: - Contains Class to read values from appsetting.json  
 
 How to run th test: - 
-1. Clone Repository on your Local Machine
-2. From Visual Studio 2022 Open the .sln file
-3. Open the Feature file
+Clone Repository on your Local Machine
+Copy Repository URL
+
+![image](https://user-images.githubusercontent.com/43743433/227440757-126ab054-cb70-424b-ac59-25a7db0bcdad.png)
+
+From teh command prompt got the driectory where you want to clone the project. Then Write Git Clone and paste the repository url 
+
+![image](https://user-images.githubusercontent.com/43743433/227441259-65fe2266-4f2d-4065-8186-e4ec87d78086.png)
+
+From Visual Studio 2022 Open the .sln file
+
+![image](https://user-images.githubusercontent.com/43743433/227441827-c10bd5b0-d3dc-4fdf-9080-cf3ec23099a5.png)
+
+![image](https://user-images.githubusercontent.com/43743433/227441927-55c68e72-4b95-4f00-9fb7-7cf83e7b5286.png)
+
+ Open the Feature file
+
+![image](https://user-images.githubusercontent.com/43743433/227442065-db3b825e-8e66-44ca-98fa-59b386383ea2.png)
+
+
 4. From Text explorer right click on the File and run the test 
 
-![image](https://user-images.githubusercontent.com/43743433/227437313-788f4f35-d70e-4c8d-a738-5920195b3655.png)
+![image](https://user-images.githubusercontent.com/43743433/227442114-4ee7b140-37b4-4c22-bebc-47b196b43170.png)
 
 
 
@@ -41,7 +58,7 @@ Nugget Packages Reequired : -
 7. Microsoft.Extensions.Configuration.Json 7.0.0
 8. Microsoft.NET.Test.Sdk 17.3.2
 9. MSTest.TestAdapter 2.2.10
-10.MSTest.TestFramework 2.2.10
+10.MSTest.TestFramework 2.2.10 
 11.Newtonsoft.Json 13.0.3
 12.NUint 3.13.3
 13.NUnit3TestAdapter 4.4.2
