@@ -62,10 +62,10 @@ Nugget Packages Reequired : -
 11. Newtonsoft.Json 13.0.3
 12. NUint 3.13.3
 13. NUnit3TestAdapter 4.4.2
-15.RestSharp 109.0.1
-16.SpecFlow 3.9.74
-17.SpecFlow.NUnit 3.9.74
-18.SpecFlow.Tools.MsBuild.Generation 3.9.74
+14. RestSharp 109.0.1
+15. SpecFlow 3.9.74
+16. SpecFlow.NUnit 3.9.74
+17. SpecFlow.Tools.MsBuild.Generation 3.9.74
 
 Extension required : - SpecFlow for Visual Studio 2022
 ![image](https://user-images.githubusercontent.com/43743433/227438951-17fd09c5-20e1-45aa-b353-09adc973e71d.png)
